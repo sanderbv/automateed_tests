@@ -1,1 +1,1 @@
-# automateed_tests
+# automateed tests via Python + Selenium
