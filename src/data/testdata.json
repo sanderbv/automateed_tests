@@ -1,0 +1,16 @@
+{
+  "StudentRegistrationForm": [
+    {
+      "FirstName": "Tester",
+      "LastName": "Automated",
+      "Email": "testeruser@example.com",
+      "Mobile": "1287654987",
+      "Address": "City, USA"
+    },
+    {
+      "FirstName": "User",
+      "Lastname": "Man",
+      "Email": "usertest@example.com"
+    }
+  ]
+}
