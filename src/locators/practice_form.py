@@ -24,4 +24,7 @@ class PracticeFormLocators:
     submit = (By.CSS_SELECTOR, '#submit')
 
     # get result table
-    resultTable = (By.XPATH, '//div[@class="table-responsive"]//td[2]')
+    resultTableLabel = (By.XPATH, '//div[@class="table-responsive"]//td[1]')
+    resultTableValue = (By.XPATH, '//div[@class="table-responsive"]//td[2]')
+    resultTable = (By.XPATH, '//div[@class="table-responsive"]//tr')
+
